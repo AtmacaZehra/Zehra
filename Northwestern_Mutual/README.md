@@ -1,0 +1,1 @@
+This is a Java(8)-Maven project for API testing. I have used junit 5, restAssured, javaFaker, jackson-databind and lombok. If you want to see the details for dependencies, please check pom.xml.
